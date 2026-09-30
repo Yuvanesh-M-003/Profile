@@ -1,5 +1,5 @@
 # Profile
-All about projects
+# All about projects
 
 
 ## 🚀 Projects ##
